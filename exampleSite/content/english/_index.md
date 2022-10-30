@@ -1,10 +1,10 @@
 ---
 banner:
-  title: Let us solve your critical website <br> development challenges
+  title: Let us optimize your Additive Manufacturing <br> workflow
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: 'An easy to use AI-based 3D printing management platform for optimizing
+    the pronting jobs in your farm. <br> We optimize the scheduling process and provide
+    real-time visibility and predective analytics. '
   button:
     enable: true
     label: Contact Us
@@ -99,7 +99,5 @@ call_to_action:
     label: Contact Us
     link: contact/
 title: SAM
-subtitle: Solutions Additive Manufacturing
-description: Solutions Additive Manufacturing
 
 ---
