@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Let us optimize your Additive Manufacturing <br> workflow 
+  title: Let us solve your critical website <br> development challenges
   image: images/banner-art.svg
   content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
     maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
@@ -99,5 +99,7 @@ call_to_action:
     label: Contact Us
     link: contact/
 title: SAM
+subtitle: Solutions Additive Manufacturing
+description: Solutions Additive Manufacturing
 
 ---
