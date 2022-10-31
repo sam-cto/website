@@ -17,7 +17,7 @@ feature:
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
   - name: AI supported
-    icon: fa-brain-circuit
+    icon: fas fa-brain-circuit
     content: Our optimization solution is based on cutting edge Artificial Intelligence
       technologies.
   - name: 24h Service
