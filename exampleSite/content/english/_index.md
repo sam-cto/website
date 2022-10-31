@@ -13,9 +13,9 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
+  - name: Fast integration
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Our solution is integrated with you ERP and 3D printers systems.
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
