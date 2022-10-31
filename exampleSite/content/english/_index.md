@@ -16,9 +16,10 @@ feature:
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: Scalable
+  - name: AI supported
     icon: fas fa-object-group
-    content: Scalable solution
+    content: Our optimization solution is based on cutting edge Artificial Intelligence
+      technologies.
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
