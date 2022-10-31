@@ -20,9 +20,9 @@ feature:
     icon: fas fa-object-group
     content: Our optimization solution is based on cutting edge Artificial Intelligence
       technologies.
-  - name: 24h Service
+  - name: Save time
     icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We help you in save time during the whole printing workflow.
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
