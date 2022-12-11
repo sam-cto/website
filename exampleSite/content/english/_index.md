@@ -87,7 +87,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Experience the best 3d printing <br> workflow with us
   image: images/screenshot.svg
 call_to_action:
   enable: true
