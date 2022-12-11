@@ -16,7 +16,7 @@ feature:
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: AI supported
+  - name: AI powered
     icon: fas fa-object-group
     content: Our optimization solution is based on cutting edge Artificial Intelligence
       technologies.
