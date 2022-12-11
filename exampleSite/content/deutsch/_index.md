@@ -100,5 +100,6 @@ call_to_action:
     label: Contact Us
     link: contact/
 title: SAM
+subtitle: Lassen Sie uns Ihren 3D-Farmdruck optimieren
 
 ---
