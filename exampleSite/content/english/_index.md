@@ -1,7 +1,7 @@
 ---
 banner:
   title: Let us optimize your 3D farm printing <br> workflow
-  image: images/schedule.png
+  image: images/avatar.jpeg
   content: 'An easy to use AI-based 3D printing management platform for optimizing
     the pronting jobs in your farm. <br> We optimize the scheduling process and provide
     real-time visibility and predective analytics. '
