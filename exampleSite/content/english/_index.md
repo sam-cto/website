@@ -13,24 +13,21 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Automated process
-    icon: ''
-    content: The Flow can be automated to save time and significantly reduce the risk
-      of human error.
   - name: AI powered Algorithm
     icon: fas fa-object-group
     content: SAM maps the most optimal printing decision based on all variables relevant
       to the printing process and their weightings.
+  - name: Automated process
+    icon: ''
+    content: The Flow can be automated to save time and significantly reduce the risk
+      of human error.
+  - name: " Scalability"
+    icon: fa-thin fa-arrows-up-to-line
+    content: SAM provides a scalable platform on which a company can expand its AM
+      operations.
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: " Scalability"
-    icon: fa-arrows-up-to-line
-    content: SAM provides a scalable platform on which a company can expand its AM
-      operations.
-  - name: Saving time
-    icon: fas fa-user-clock
-    content: We help you in save time during the whole printing workflow.
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
