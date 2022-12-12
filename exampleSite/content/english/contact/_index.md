@@ -8,6 +8,6 @@ description: This is meta description
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
 
-* **Phone: +88 125 256 452**
+* **Phone: 00491622443256**
 * **Mail: info@sam3dp.tech**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Address: Gubener strasse 3B, 10243 Berlin**
