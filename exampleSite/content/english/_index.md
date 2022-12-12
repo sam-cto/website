@@ -93,7 +93,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: ''
+  title: Maschine and Software connectivity
   image: ''
   content: ''
   button:
