@@ -1,12 +1,13 @@
 ---
 title: Request a demo
-subtitle: ''
+subtitle: To arrange a demo of our software, simply fill out the form below and a
+  member of our team will be in touch.
 description: This is meta description
 
 ---
 ### Why you should contact us!
 
-we work with you to find the better solutions for your company 
+we work with you to find the better solutions for your company
 
 * **Phone: 00491622443256**
 * **Mail: info@sam3dp.tech**
