@@ -14,7 +14,7 @@ feature:
   title: Something You Need To Know
   feature_item:
   - name: AI powered Algorithm
-    icon: fas fa-object-group
+    icon: fas fa-solid fa-microchip-ai
     content: SAM maps the most optimal printing decision based on all variables relevant
       to the printing process and their weightings.
   - name: Automated process
