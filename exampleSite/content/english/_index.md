@@ -93,10 +93,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
-  image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  title: ''
+  image: images/logoleiste-sibb-accelerator-forderlogos-gesamt-white-background.png
+  content: ''
   button:
     enable: true
     label: Contact Us
