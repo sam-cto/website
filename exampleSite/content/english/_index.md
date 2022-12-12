@@ -31,9 +31,10 @@ feature:
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: Faster Response
+  - name: Analytics
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Real time machine reporting status and data analysis to save time and
+      resources
 service:
   enable: true
   service_item:
