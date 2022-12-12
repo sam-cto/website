@@ -31,7 +31,8 @@ feature:
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: " Scalability"
     icon: fa-regular fa-arrows-up-to-line
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: SAM provides a scalable platform on which a company can expand its AM
+      operations.
 service:
   enable: true
   service_item:
