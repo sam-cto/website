@@ -97,7 +97,7 @@ call_to_action:
   image: images/logoleiste-sibb-accelerator-forderlogos-gesamt-white-background.png
   content: ''
   button:
-    enable: true
+    enable: false
     label: Contact Us
     link: contact/
 title: SAM
