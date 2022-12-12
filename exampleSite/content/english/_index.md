@@ -19,8 +19,8 @@ feature:
       to the printing process and their weightings.
   - name: Automated process
     icon: ''
-    content: The Flow can be automated to save time and significantly reduce the risk
-      of human error.
+    content: The AM flow can be automated to save time and significantly reduce the
+      risk of human error.
   - name: " Scalability"
     icon: fa-thin fa-arrows-up-to-line
     content: SAM provides a scalable platform on which a company can expand its AM
