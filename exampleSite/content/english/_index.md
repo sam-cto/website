@@ -7,7 +7,7 @@ banner:
     real-time visibility and predective analytics. '
   button:
     enable: true
-    label: Contact Us
+    label: Request a Demo
     link: contact/
 feature:
   enable: true
