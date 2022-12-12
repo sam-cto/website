@@ -20,7 +20,7 @@ feature:
     icon: fas fa-object-group
     content: Our optimization solution is based on cutting edge Artificial Intelligence
       technologies.
-  - name: Save time
+  - name: Saving time
     icon: fas fa-user-clock
     content: We help you in save time during the whole printing workflow.
   - name: Value For Money
