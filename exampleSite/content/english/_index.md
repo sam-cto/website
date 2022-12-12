@@ -97,7 +97,7 @@ call_to_action:
   image: ''
   content: ''
   button:
-    enable: false
+    enable: true
     label: Contact Us
     link: contact/
 title: SAM
