@@ -1,6 +1,6 @@
 ---
 banner:
-  title: optimize your 3D farm printing <br> workflow
+  title: Additive Manufacturing Optimisation system
   image: images/schedule.png
   content: 'An easy to use AI-based 3D printing management platform for optimizing
     the pronting jobs in your farm. <br> SAM helps you  optimize your AM Flow by Smart
