@@ -18,10 +18,6 @@ link = "contact"
 enable = false
 preloader = ""
 [[social]]
-icon = ""
-link = ""
-title = ""
-[[social]]
 icon = "fab fa-facebook"
 link = "#"
 title = "facebook"
