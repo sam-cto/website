@@ -13,6 +13,10 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
+  - name: Automated process
+    icon: ''
+    content: The Flow can be automated to save time and significantly reduce the risk
+      of human error.
   - name: AI powered Algorithm
     icon: fas fa-object-group
     content: SAM maps the most optimal printing decision based on all variables relevant
