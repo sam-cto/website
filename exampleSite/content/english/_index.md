@@ -13,13 +13,13 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
+  - name: AI powered Algorithm
+    icon: fas fa-object-group
+    content: SAM maps the most optimal printing decision based on all variables relevant
+      to the printing process and their weightings.
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: AI powered
-    icon: fas fa-object-group
-    content: Our optimization solution is based on cutting edge Artificial Intelligence
-      technologies.
   - name: Saving time
     icon: fas fa-user-clock
     content: We help you in save time during the whole printing workflow.
