@@ -22,7 +22,7 @@ feature:
     content: The AM flow can be automated to save time and significantly reduce the
       risk of human error.
   - name: " Scalability"
-    icon: fas fa-solid fa-weight-scale
+    icon: fas arrow-up
     content: SAM provides a scalable platform on which a company can expand its AM
       operations.
   - name: Fast integration
