@@ -33,8 +33,7 @@ feature:
     content: Our solution is integrated with you ERP and 3D printers systems.
   - name: Analytics
     icon: fas fa-tachometer-alt
-    content: Real time machine reporting status and data analysis to save time and
-      resources
+    content: 'Real time machine reporting status and data analysis for future Efficiency '
 service:
   enable: true
   service_item:
