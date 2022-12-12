@@ -94,7 +94,7 @@ screenshot:
 call_to_action:
   enable: true
   title: ''
-  image: images/logoleiste-sibb-accelerator-forderlogos-gesamt-white-background.png
+  image: ''
   content: ''
   button:
     enable: false
