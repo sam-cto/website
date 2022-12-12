@@ -20,6 +20,10 @@ feature:
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
+  - name: " Scalability"
+    icon: fa-arrows-up-to-line
+    content: SAM provides a scalable platform on which a company can expand its AM
+      operations.
   - name: Saving time
     icon: fas fa-user-clock
     content: We help you in save time during the whole printing workflow.
@@ -29,10 +33,6 @@ feature:
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: " Scalability"
-    icon: fa-regular fa-arrows-up-to-line
-    content: SAM provides a scalable platform on which a company can expand its AM
-      operations.
 service:
   enable: true
   service_item:
