@@ -29,8 +29,8 @@ feature:
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: fas fa-cloud
+  - name: " Scalability"
+    icon: fa-regular fa-arrows-up-to-line
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
