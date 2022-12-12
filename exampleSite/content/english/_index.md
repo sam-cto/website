@@ -25,12 +25,12 @@ feature:
     icon: fas fa-arrow-up
     content: SAM provides a scalable platform on which a company can expand its AM
       operations.
+  - name: Value For Money
+    icon: fas fa-heart
+    content: SAM helps save time and ressources
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
