@@ -15,10 +15,10 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: AI powered Algorithm
+  - name: Smart Algorithms
     icon: fas fa-solid fa-microchip-ai
-    content: SAM maps the most optimal printing decision based on all variables relevant
-      to the printing process and their weightings.
+    content: 'Our technology is based on smart algorithm solutions which optimise
+      processes in real-time. '
   - name: Automated process
     icon: ''
     content: The AM flow can be automated to save time and significantly reduce the
