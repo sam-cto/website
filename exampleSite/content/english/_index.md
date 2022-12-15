@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Additive Manufacturing Optimisation System
+  title: Additive Manufacturing Optimisation Systems
   image: images/schedule.png
   content: 'SAM helps you to grow your Additive Manufacturing. We offer different
     modules that help you optimise your processes in a smart way. Our data driven
