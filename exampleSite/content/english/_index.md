@@ -35,9 +35,8 @@ feature:
     content: 'Real time machine reporting status and data analysis for future Efficiency '
   - name: 'Grow your business with SAM '
     icon: fas fa-heart
-    content: SAM helps you to unlock your full additive manufacturing potential.  scalability
-      barriers. Let us help you grow your business and thrive into the revolutionary
-      future of Additive Manufacturing.
+    content: " Unlock your full additive manufacturing potential and thrive into the
+      revolutionary future of Additive Manufacturing."
 service:
   enable: true
   service_item:
