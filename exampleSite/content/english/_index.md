@@ -65,7 +65,7 @@ service:
       '
     button:
       enable: true
-      label: Check it out
+      label: Sign Up for the Waitlist
       link: "#"
   - title: It’s a team of experienced and skilled people with distributions
     images:
