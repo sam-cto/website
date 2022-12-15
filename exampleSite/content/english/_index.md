@@ -25,8 +25,7 @@ feature:
       risk of human error.
   - name: " Scalability"
     icon: fas fa-arrow-up
-    content: SAM provides a scalable platform which enables your company to scale
-      additive manufacturing.
+    content: We provide a scalable platform according to your needs.
   - name: Fast integration
     icon: fas fa-code
     content: 'We integrate our solution into your ERP and Additive Manufacturing Systems. '
