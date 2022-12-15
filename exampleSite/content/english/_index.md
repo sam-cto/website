@@ -30,7 +30,7 @@ feature:
       farms.
   - name: Fast integration
     icon: fas fa-code
-    content: We integrate our solution into your ERP and Additive Manufacturing Systems.
+    content: 'We integrate our solution into your ERP and Additive Manufacturing Systems. '
   - name: Analytics
     icon: fas fa-tachometer-alt
     content: 'Real time machine reporting status and data analysis for future Efficiency '
