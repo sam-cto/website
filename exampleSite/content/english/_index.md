@@ -92,7 +92,8 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best 3d printing <br> workflow with us
+  title: 'Unlock your full Additive Manufacturing potential. Become an industrial
+    leader. We deliver the tools you need. '
   image: images/screenshot.svg
 call_to_action:
   enable: true
