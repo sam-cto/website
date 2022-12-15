@@ -97,7 +97,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Maschine and Software connectivity
+  title: Sign Up here and become the first one to profit from SAM
   image: ''
   content: ''
   button:
