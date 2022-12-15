@@ -55,14 +55,14 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: Matching Systems
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'SAM Matching Systems help you automise matching printed objects with
+      orders by an intelligent integrated system module. SAM Matching Systems helps
+      shifting manual processes prone to errors to tech-supported optimised processes.
+
+      '
     button:
       enable: true
       label: Check it out
