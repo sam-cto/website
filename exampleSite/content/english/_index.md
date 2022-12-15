@@ -26,8 +26,7 @@ feature:
   - name: " Scalability"
     icon: fas fa-arrow-up
     content: SAM provides a scalable platform which enables your company to expand
-      its Additive Manufacturing operations and grow from small to industrial 3D printer
-      farms.
+      its business.
   - name: Fast integration
     icon: fas fa-code
     content: 'We integrate our solution into your ERP and Additive Manufacturing Systems. '
