@@ -21,7 +21,7 @@ feature:
       processes in real-time. '
   - name: Automated process
     icon: ''
-    content: The AM flow can be automated to save time and significantly reduce the
+    content: We automate your AM flow to you save time and significantly reduce the
       risk of human error.
   - name: " Scalability"
     icon: fas fa-arrow-up
