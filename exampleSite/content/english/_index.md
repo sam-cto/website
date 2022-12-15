@@ -32,7 +32,7 @@ feature:
     content: 'We integrate our solution into your ERP and Additive Manufacturing Systems. '
   - name: Analytics
     icon: fas fa-tachometer-alt
-    content: 'Real time machine reporting status and data analysis for future Efficiency '
+    content: We provide our solutions based on data driven analytics.
   - name: 'Grow your business with SAM '
     icon: fas fa-heart
     content: " Unlock your full additive manufacturing potential and thrive into the
