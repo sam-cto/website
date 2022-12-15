@@ -25,8 +25,9 @@ feature:
       risk of human error.
   - name: " Scalability"
     icon: fas fa-arrow-up
-    content: SAM provides a scalable platform on which a company can expand its AM
-      operations.
+    content: SAM provides a scalable platform which enables your company to expand
+      its Additive Manufacturing operations and grow from small to industrial 3D printer
+      farms.
   - name: Value For Money
     icon: fas fa-heart
     content: SAM helps save time and ressources
