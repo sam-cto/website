@@ -95,7 +95,7 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Sign Up here and become the first one to profit from SAM
+  title: Sign Up here
   image: ''
   content: ''
   button:
