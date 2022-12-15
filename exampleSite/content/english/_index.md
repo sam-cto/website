@@ -1,10 +1,12 @@
 ---
 banner:
-  title: Additive Manufacturing Optimisation system
+  title: Additive Manufacturing Optimisation System
   image: images/schedule.png
-  content: 'An easy to use AI-based 3D printing management platform for optimizing
-    the pronting jobs in your farm. <br> SAM helps you  optimize your AM Flow by Smart
-    scheduling process, provide real-time visibility and predective analytics. '
+  content: 'SAM helps you to grow your Additive Manufacturing. We offer different
+    modules that help you optimise your processes in a smart way. Our data driven
+    solutions range from smart scheduling modules, providing real-time configuration,
+    Matching Systems pairing products and orders and Predictive Analytics to plan
+    and forecast your printing schedules. '
   button:
     enable: true
     label: Request a Demo
