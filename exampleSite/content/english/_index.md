@@ -34,8 +34,7 @@ feature:
     content: We provide our solutions based on data driven analytics.
   - name: 'Grow your business with SAM '
     icon: fas fa-heart
-    content: " Unlock your full additive manufacturing potential and thrive into the
-      revolutionary future of Additive Manufacturing."
+    content: " We serve you to unlock your full Additive Manufacturing."
 service:
   enable: true
   service_item:
