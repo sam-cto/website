@@ -13,7 +13,7 @@ banner:
     link: contact/
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Something You Should Know
   feature_item:
   - name: Smart Algorithms
     icon: fas fa-solid fa-microchip-ai
