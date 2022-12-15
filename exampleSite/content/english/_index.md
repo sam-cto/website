@@ -28,9 +28,11 @@ feature:
     content: SAM provides a scalable platform which enables your company to expand
       its Additive Manufacturing operations and grow from small to industrial 3D printer
       farms.
-  - name: Value For Money
+  - name: 'Grow your business with SAM '
     icon: fas fa-heart
-    content: SAM helps save time and ressources
+    content: SAM helps you to unlock your full additive manufacturing potential.  scalability
+      barriers. Let us help you grow your business and thrive into the revolutionary
+      future of Additive Manufacturing.
   - name: Fast integration
     icon: fas fa-code
     content: Our solution is integrated with you ERP and 3D printers systems.
