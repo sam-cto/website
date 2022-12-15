@@ -28,17 +28,17 @@ feature:
     content: SAM provides a scalable platform which enables your company to expand
       its Additive Manufacturing operations and grow from small to industrial 3D printer
       farms.
+  - name: Fast integration
+    icon: fas fa-code
+    content: We integrate our solution into your ERP and Additive Manufacturing Systems.
+  - name: Analytics
+    icon: fas fa-tachometer-alt
+    content: 'Real time machine reporting status and data analysis for future Efficiency '
   - name: 'Grow your business with SAM '
     icon: fas fa-heart
     content: SAM helps you to unlock your full additive manufacturing potential.  scalability
       barriers. Let us help you grow your business and thrive into the revolutionary
       future of Additive Manufacturing.
-  - name: Fast integration
-    icon: fas fa-code
-    content: Our solution is integrated with you ERP and 3D printers systems.
-  - name: Analytics
-    icon: fas fa-tachometer-alt
-    content: 'Real time machine reporting status and data analysis for future Efficiency '
 service:
   enable: true
   service_item:
