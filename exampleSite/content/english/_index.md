@@ -53,7 +53,7 @@ service:
       '
     button:
       enable: true
-      label: Check it out
+      label: Notify Me
       link: "#"
   - title: Matching Systems
     images:
