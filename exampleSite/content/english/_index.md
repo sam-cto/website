@@ -76,18 +76,6 @@ service:
       enable: true
       label: Notify Me
       link: "#"
-  - title: A company standing different from others
-    images:
-    - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
-    button:
-      enable: true
-      label: Check it out
-      link: "#"
 screenshot:
   enable: true
   title: 'Unlock your full Additive Manufacturing potential. Become an industrial
