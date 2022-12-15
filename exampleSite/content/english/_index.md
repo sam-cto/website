@@ -67,17 +67,16 @@ service:
       enable: true
       label: Notify Me
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: Predictive Analytics
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 'SAM Predictive Analytics is based on your real-time machine reporting
+      status and data analysis for future efficiency. Predictive Analytics helps you
+      to plan and forecast your printing schedules, printer failures and many more
+      features. '
     button:
       enable: true
-      label: Check it out
+      label: Notify Me
       link: "#"
   - title: A company standing different from others
     images:
