@@ -18,18 +18,6 @@ link = "contact"
 enable = false
 preloader = ""
 [[social]]
-icon = "fab fa-facebook"
-link = "#"
-title = "facebook"
-[[social]]
-icon = "fab fa-twitter"
-link = "#"
-title = "twitter"
-[[social]]
-icon = "fab fa-skype"
-link = "#"
-title = "skype"
-[[social]]
 icon = "fab fa-linkedin"
-link = "#"
+link = "#https://www.linkedin.com/company/solutions-additive-manufacturing"
 title = "linkedin"
