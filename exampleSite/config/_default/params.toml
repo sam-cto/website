@@ -19,5 +19,5 @@ enable = false
 preloader = ""
 [[social]]
 icon = "fab fa-linkedin"
-link = "#https://www.linkedin.com/company/solutions-additive-manufacturing"
+link = "#www.linkedin.com/company/solutions-additive-manufacturing"
 title = "linkedin"
