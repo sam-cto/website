@@ -101,6 +101,5 @@ call_to_action:
     link: contact/
 title: SAM
 subtitle: Lassen Sie uns Ihren 3D-Farmdruck optimieren
-draft: true
 
 ---
