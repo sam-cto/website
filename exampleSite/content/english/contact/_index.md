@@ -5,9 +5,9 @@ subtitle: To arrange a demo of our software, simply fill out the form below and 
 description: This is meta description
 
 ---
-### Why you should contact us!
+### Contact us!
 
-we work with you to find the better solutions for your company
+We provide you the tool you need to scale your additive manufacturing! 
 
 * **Phone: 00491622443256**
 * **Mail: info@sam3dp.tech**
