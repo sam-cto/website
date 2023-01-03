@@ -1,15 +1,13 @@
 ---
-title: "Kontakt"
-subtitle: ""
-# meta description
-description: "Dies ist die Metabeschreibung"
-draft: false
+title: Kontakt
+subtitle: ''
+description: Dies ist die Metabeschreibung
+
 ---
+### Kontaktiere uns!
 
+Wir stellen Dir das Tool zur Verfügung, durch welches Du deine 3D Druckfarm skalieren kannst! 
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Telefon: +49 162 2445632**
+* **Mail: info@sam3dp.tech**
+* **Addresse: Solutions Additive Manufacturing c/o Montasser, Gubener Strasse 3B, 10243 Berlin**
