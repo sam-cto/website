@@ -17,3 +17,5 @@ Wir stellen Dir das Tool zur Verfügung, durch welches Du deine 3D Druckfarm ska
   **Gubener Strasse 3B**
 
   **10243 Berlin**
+
+![](/images/logoleiste-sibb-accelerator-forderlogos-gesamt-white-background.png)
