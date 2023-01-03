@@ -11,9 +11,9 @@ We provide you the tool you need to scale your additive manufacturing!
 
 * **Phone: 00491622443256**
 * **Mail: info@sam3dp.tech**
-* **Address:** 
+* Address:
 
-  **Solutions Additive Manufacturing c/o Montasser** 
+  **Solutions Additive Manufacturing c/o Montasser**
 
   **Gubener Strasse 3B**
 
