@@ -8,12 +8,12 @@ description: Dies ist die Metabeschreibung
 
 Wir stellen Dir das Tool zur Verfügung, durch welches Du deine 3D Druckfarm skalieren kannst!
 
-**Mail: info@sam3dp.tech**
+* **Mail: info@sam3dp.tech**
+* **Telefon: 00491622443256**
+* Addresse:
 
-**Telefon: +49 162 2445632**
+  **Solutions Additive Manufacturing c/o Montasser**
 
-**Solutions Additive Manufacturing c/o Montasser**
+  **Gubener Strasse 3B**
 
-**Gubener Strasse 3B**
-
-**10243 Berlin**
+  **10243 Berlin**
