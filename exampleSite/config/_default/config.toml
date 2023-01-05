@@ -7,3 +7,5 @@ theme = "bigspring-light"
 title = "SAM"
 [markup.goldmark.renderer]
 unsafe = true
+# disable language
+disableLanguages = ["de"]
