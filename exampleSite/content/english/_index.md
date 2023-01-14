@@ -91,4 +91,4 @@ call_to_action:
 title: SAM
 
 ---
-![](/images/logo-sam.png)
+![](/images/logo_sam_tagline.png)
