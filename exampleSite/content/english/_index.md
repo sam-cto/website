@@ -46,7 +46,7 @@ service:
       your full capacity and scale!\n\n"
     button:
       enable: true
-      label: Start to Scale
+      label: Start Scaling Now!
       link: "#"
   - title: MATCHING
     images:
