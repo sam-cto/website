@@ -3,14 +3,14 @@ banner:
   title: Automated Additive Manufacturing Optimisation Systems
   image: images/schedule.png
   content: "Scale your Additive Manufacturing and become the next industrial leader.
-    \nWe deliver the tools you need. Automatise. Optimise. Grow. "
+    We deliver the tools you need. \nAutomatise. Optimise. Grow. "
   button:
     enable: true
-    label: Sign Up for Waiting List
+    label: Join SAM now!
     link: contact/
 feature:
   enable: true
-  title: Something You Should Know
+  title: How SAM works
   feature_item:
   - name: Smart Algorithms
     icon: fas fa-solid fa-microchip-ai
@@ -58,16 +58,15 @@ service:
       enable: true
       label: Start Scaling Now!
       link: "#"
-  - title: Predictive Analytics
+  - title: PREDICTIVE ANALYSIS
     images:
     - images/service-2.png
-    content: 'SAM Predictive Analytics is based on your real-time machine reporting
-      status and data analysis for future efficiency. Predictive Analytics helps you
-      to plan and forecast your printing schedules, printer failures and many more
-      features. '
+    content: SAM Predictive Analyticsⓒ forecasts your printing schedules, printer
+      failures and many more features. It serves you to plan your workflows optimised.
+      Allocate your resources efficiently. Scale your business next!
     button:
       enable: true
-      label: Notify Me
+      label: Start Scaling Now!
       link: "#"
 screenshot:
   enable: true
