@@ -35,30 +35,28 @@ feature:
 service:
   enable: true
   service_item:
-  - title: Scheduling Optimisation
+  - title: SCHEDULING
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: 'Our SAM Scheduling Module maps the most optimal printing orders decisions
-      based on all variables relevant to your printing processes.
-
-      '
+    content: "The times of simply queuing printing orders are over. \nSAM Scheduling
+      Systemⓒ automatically decides your optimised printing orders. Our dashboard
+      guides you through your workday. SAM maximises your printing uptime. Unlock
+      your full capacity and scale!\n\n"
     button:
       enable: true
-      label: Notify Me
+      label: Start to Scale
       link: "#"
-  - title: Matching Systems
+  - title: MATCHING
     images:
     - images/service-1.png
-    content: 'SAM Matching Systems help you automise matching printed objects with
-      orders by an intelligent integrated system module. SAM Matching Systems helps
-      shifting manual processes prone to errors to tech-supported optimised processes.
-
-      '
+    content: 'SAM Matching Systemsⓒ automatically matches your printed objects with
+      its order numbers. We shift your workflow from manual processes into fully automated
+      processes. Save time and scale instead! '
     button:
       enable: true
-      label: Notify Me
+      label: Start Scaling Now!
       link: "#"
   - title: Predictive Analytics
     images:
