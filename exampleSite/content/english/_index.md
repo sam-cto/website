@@ -1,15 +1,12 @@
 ---
 banner:
-  title: Additive Manufacturing Optimisation Systems
+  title: Automated Additive Manufacturing Optimisation Systems
   image: images/schedule.png
-  content: 'SAM helps you to grow your Additive Manufacturing. We offer different
-    modules that help you optimise your processes in a smart way. Our data driven
-    solutions range from smart scheduling modules, providing real-time configuration,
-    Matching Systems pairing products and orders and Predictive Analytics to plan
-    and forecast your printing schedules. '
+  content: "Scale your Additive Manufacturing and become the next industrial leader.
+    \nWe deliver the tools you need. Automatise. Optimise. Grow. "
   button:
     enable: true
-    label: Request a Demo
+    label: Sign Up for Waiting List
     link: contact/
 feature:
   enable: true
