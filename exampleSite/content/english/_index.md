@@ -84,6 +84,7 @@ call_to_action:
     link: contact/
 title: SAM
 subtitle: Test
+draft: true
 
 ---
 ![](/images/logo_sam_tagline.png)
