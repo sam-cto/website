@@ -83,7 +83,7 @@ call_to_action:
     label: Contact Us
     link: contact/
 title: SAM
-subtitle: Test
+subtitle: Infinite Scalability
 
 ---
 ![](/images/logo_sam_tagline.png)
