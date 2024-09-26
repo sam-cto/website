@@ -3,7 +3,9 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
-theme = "bigspring-light"
+theme = "educenter-hugo" #"bigspring-light"
 title = "SAM"
 [markup.goldmark.renderer]
 unsafe = true
+# disable language
+disableLanguages = ["De"] # desable language from here
