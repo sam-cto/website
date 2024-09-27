@@ -21,3 +21,6 @@ preloader = ""
 icon = "fab fa-linkedin"
 link = "https://www.linkedin.com/company/solutions-additive-manufacturing/"
 title = "linkedin"
+# disable language
+disableLanguages = ["de"]
+disableLanguages = ["De"]
